@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shravann-21/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/shravann-21/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [1929-concatenation-of-array](https://github.com/shravann-21/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shravann-21/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/shravann-21/LEETCODE/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
