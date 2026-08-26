@@ -58,5 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/shravann-21/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [3798-largest-even-number](https://github.com/shravann-21/LEETCODE/tree/master/3798-largest-even-number) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/shravann-21/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/shravann-21/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
