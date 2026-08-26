@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shravann-21/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/shravann-21/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shravann-21/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/shravann-21/LEETCODE/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/shravann-21/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/shravann-21/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shravann-21/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shravann-21/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/shravann-21/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/shravann-21/LEETCODE/tree/master/0704-binary-search) |
 ## Simulation
 |  |
 | ------- |
