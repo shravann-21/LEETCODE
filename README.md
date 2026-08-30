@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shravann-21/LEETCODE/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/shravann-21/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/shravann-21/LEETCODE/tree/master/1929-concatenation-of-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/shravann-21/LEETCODE/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shravann-21/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shravann-21/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shravann-21/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shravann-21/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shravann-21/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/shravann-21/LEETCODE/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shravann-21/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shravann-21/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/shravann-21/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+## Counting
+|  |
+| ------- |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/shravann-21/LEETCODE/tree/master/2341-maximum-number-of-pairs-in-array) |
 <!---LeetCode Topics End-->
