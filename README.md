@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shravann-21/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shravann-21/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/shravann-21/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/shravann-21/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shravann-21/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shravann-21/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/shravann-21/LEETCODE/tree/master/0704-binary-search) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/shravann-21/LEETCODE/tree/master/2341-maximum-number-of-pairs-in-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shravann-21/LEETCODE/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
