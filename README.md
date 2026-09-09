@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shravann-21/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shravann-21/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/shravann-21/LEETCODE/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/shravann-21/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/shravann-21/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/shravann-21/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/shravann-21/LEETCODE/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -89,4 +90,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shravann-21/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/shravann-21/LEETCODE/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
