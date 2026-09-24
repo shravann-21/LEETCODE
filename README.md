@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shravann-21/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shravann-21/LEETCODE/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shravann-21/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/shravann-21/LEETCODE/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shravann-21/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/shravann-21/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shravann-21/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -41,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shravann-21/LEETCODE/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/shravann-21/LEETCODE/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shravann-21/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/shravann-21/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/shravann-21/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shravann-21/LEETCODE/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/shravann-21/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shravann-21/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/shravann-21/LEETCODE/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shravann-21/LEETCODE/tree/master/0049-group-anagrams) |
 | [1903-largest-odd-number-in-string](https://github.com/shravann-21/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [3798-largest-even-number](https://github.com/shravann-21/LEETCODE/tree/master/3798-largest-even-number) |
 ## Math
