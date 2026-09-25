@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shravann-21/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/shravann-21/LEETCODE/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shravann-21/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/shravann-21/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/shravann-21/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shravann-21/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shravann-21/LEETCODE/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shravann-21/LEETCODE/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/shravann-21/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/shravann-21/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shravann-21/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/shravann-21/LEETCODE/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shravann-21/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shravann-21/LEETCODE/tree/master/0724-find-pivot-index) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shravann-21/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
